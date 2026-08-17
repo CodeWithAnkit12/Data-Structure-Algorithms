@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0039-combination-sum) |
 | [0912-sort-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
