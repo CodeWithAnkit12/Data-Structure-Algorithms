@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0039-combination-sum) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
