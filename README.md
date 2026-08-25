@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1922-count-good-numbers](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
