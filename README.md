@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0078-subsets) |
 | [0912-sort-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0078-subsets) |
 ## Math
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/1927-sum-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
