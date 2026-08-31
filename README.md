@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0912-sort-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0040-combination-sum-ii) |
 ## Math
 |  |
 | ------- |
