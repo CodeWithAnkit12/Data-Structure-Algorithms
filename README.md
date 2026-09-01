@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
 | [0912-sort-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0912-sort-an-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,4 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
