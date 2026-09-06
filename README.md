@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0079-word-search) |
 | [0443-string-compression](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0443-string-compression) |
 | [1927-sum-game](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0912-sort-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0912-sort-an-array) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0216-combination-sum-iii) |
 ## Math
@@ -109,5 +112,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0079-word-search) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
