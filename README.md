@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0912-sort-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0912-sort-an-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0216-combination-sum-iii) |
 ## Math
 |  |
 | ------- |
