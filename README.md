@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0078-subsets) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0037-sudoku-solver) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0078-subsets) |
@@ -112,10 +115,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0079-word-search) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
