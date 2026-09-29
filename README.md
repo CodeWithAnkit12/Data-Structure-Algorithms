@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0912-sort-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0912-sort-an-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3903-smallest-stable-index-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0079-word-search) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
 |  |
@@ -171,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
