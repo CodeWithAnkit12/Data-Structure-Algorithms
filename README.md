@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0912-sort-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0912-sort-an-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -34,14 +35,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
