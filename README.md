@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0216-combination-sum-iii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0912-sort-an-array](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0912-sort-an-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0282-expression-add-operators) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/0836-rectangle-overlap) |
 | [1922-count-good-numbers](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/CodeWithAnkit12/Data-Structure-Algorithms/tree/master/1927-sum-game) |
